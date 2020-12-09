@@ -1,0 +1,13 @@
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.exe
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.deps.json
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.json
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.dev.json
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\yaser\source\repos\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csprojAssemblyReference.cache
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfoInputs.cache
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfo.cs
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\yaser\source\repos\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.genruntimeconfig.cache
